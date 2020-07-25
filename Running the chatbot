@@ -1,0 +1,6 @@
+To run the chatbot, we have two main files; train_chatbot.py and chatapp.py.
+
+First, we train the model using the command in the terminal:
+python train_chatbot.py
+Then to run the app, we run the second file.
+python chatgui.py
